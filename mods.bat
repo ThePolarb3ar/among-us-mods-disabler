@@ -1,0 +1,3 @@
+mv "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\plugins" "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\pluginsDisabledTemp"
+mv "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\pluginsDisabled" "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\plugins"
+mv "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\pluginsDisabledTemp" "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\pluginsDisabled"
